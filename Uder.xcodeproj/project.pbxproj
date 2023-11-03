@@ -24,6 +24,7 @@
 		A4261FDD2AF525AD0048A12B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A4261FE02AF525AD0048A12B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A4261FE22AF525AD0048A12B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A4917BF82AF52BA800ECB803 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Main.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -151,6 +152,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				A4261FDB2AF525AC0048A12B /* Base */,
+				A4917BF82AF52BA800ECB803 /* en */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
